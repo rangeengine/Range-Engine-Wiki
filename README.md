@@ -1,4 +1,4 @@
-![](doc/readme/GitHub_Readme1.png)
+![](releasenotes/readme/GitHub_Readme1.png)
 
 RanGE (**Range Engine**) is a fork of UPBGE created by Rafael Tavares and some of his friends in August 2022.
 
